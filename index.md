@@ -3,15 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: About me
 ---
 
 # About me
 
-- **Name:** Nicola Davanzo
+```
+<span style="color:red">Name: Nicola Davanzo</span>
+```
 
-- **Birth date:** 12 March 1992
+```
+<span style="color:red">Birth date: 12 March 1992</span>
+```
 
-## Current occupation
+# Current occupation
 
 I'm a PhD student in Computer Science within [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/) at University of Milan, Italy.
