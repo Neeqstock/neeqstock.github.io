@@ -10,13 +10,9 @@ title: About me
 
 <img title="" src="images/Neeq.png" alt="a" width="264" data-align="center">
 
-```
-{:nomarkdown}<span style="color:red">Name: Nicola Davanzo</span>
-```
+<span style="color:red">Name: Nicola Davanzo</span>
 
-```
-<span style="color:red">Birth date: 12 March 1992</span>{:/}
-```
+<span style="color:red"Birth date: 12 March 1992</span>
 
 ## PhD
 
@@ -28,6 +24,6 @@ I've got my **Master Degree in Computer Engineering (2018)** at University of Pa
 
 ## Bachelor degree
 
-I've got my **Bachelor Degree in Ingegneria Elettronica/Informatica (2015)** at University of Pavia, Italy. My Bachelor Thesis project is entitled *Development of a software for writing using an eyetracker*.
+I've got my **Bachelor Degree in Ingegneria Elettronica/Informatica (2015)** at University of Pavia, Italy. My Bachelor Thesis project is entitled *Development of a softwa for writing using an eyetracker*.
 
 Beh insomma
