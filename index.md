@@ -8,14 +8,12 @@ title: About me
 
 # About me
 
-
-
 ```
-{::nomarkdown}<span style="color:red">Name: Nicola Davanzo</span>
+{:nomarkdown}<span style="color:red">Name: Nicola Davanzo</span>
 ```
 
 ```
-<span style="color:red">Birth date: 12 March 1992</span>
+<span style="color:red">Birth date: 12 March 1992</span>{:/}
 ```
 
 ## PhD
