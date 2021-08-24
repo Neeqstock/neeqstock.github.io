@@ -8,7 +8,7 @@ title: About me
 
 # About me
 
-<img title="" src="images/Neeq.png" alt="a" width="264" data-align="center">
+<img title="" src="images/Neeq.png" alt="Neeq" width="264" data-align="center"/>
 
 <span style="color:red">Name: Nicola Davanzo</span>
 
