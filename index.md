@@ -10,6 +10,8 @@ title: About me
 
 <img title="" src="http://neeqstock.altervista.org/images/portrait.png" alt="" width="240" data-align="center">
 
+a
+
 ```
 <span style="color:red">Name: Nicola Davanzo</span>
 ```
