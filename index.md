@@ -38,10 +38,7 @@ I've got my **Bachelor Degree in Ingegneria Elettronica/Informatica (2015)** at 
 - Music (see the page Music)
 - Psychology (Jung's theories, evolutionary psychology, human social networks)
 - Philosophy
-- Historic swordfighting (HEMA and related)
+- Historical swordfighting (HEMA and related)
 - Capoeira
-- Nature
-- Camping
+- Nature and camping
 - Cooking
-
-## Blog posts
