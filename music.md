@@ -8,7 +8,7 @@ permalink: /music/
 
 
 
-<img title="" src="images/cegnimusic.png" alt="Playing with some friends" data-align="inline" width="315">
+<img title="" src="images/cegnimusic.png" alt="Playing with some friends" width="315">
 
 I began playing the electric guitar when I was 16, and I have continued so far as self-taught. Now (age
  29) I mostly play acoustic guitar.
