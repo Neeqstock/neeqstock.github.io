@@ -6,9 +6,7 @@ permalink: /music/
 
 # Netytar
 
-![Netytar_comp.jpg](C:\Users\neequ\OneDrive\Documenti\GitHub\neeqstock.github.io\images\Netytar_comp.jpg)
-
-
+<img title="" src="images/Netytar_comp.jpg" alt="Neeq" width="300" data-align="center">
 
 Netytar is a software Accessible Digital Musical Instrument controlled by gaze pointing and breath.
 
