@@ -7,7 +7,7 @@ permalink: /netytar/
 # Netytar
 
 <img title="" src="images/Neeq.png" alt="Neeq" width="300" data-align="center">
-![Playing with friends](/images/cegnimusic.jpg){:class="img-responsive"; width="300"}
+![Playing with friends](/images/cegnimusic.jpg){:width="300"}
 
 Netytar is a software Accessible Digital Musical Instrument controlled by gaze pointing and breath. I developed it as part of my master thesis project in Università degli Studi di Pavia, then continued its development during my PhD at Università degli Studi di Milano.
 
@@ -30,4 +30,4 @@ Netytar's breath pressure sensor can be easily built DIY for under 30€.
 
 ## Download it and play!
 
-Netytar is FOSS (Free Open-Source Software)! Download it and try it from the 
+Netytar is FOSS (Free Open-Source Software)! Download it and try it from 
