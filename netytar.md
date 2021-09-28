@@ -1,7 +1,7 @@
 ```yaml
 layout: page
-title: Music
-permalink: /music/
+title: Netytar
+permalink: /netytar/
 ```
 
 # Netytar
