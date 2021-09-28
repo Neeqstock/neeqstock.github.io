@@ -6,12 +6,11 @@ permalink: /music/
 
 # Music
 
+![cegnimusic.jpg](C:\Users\neequ\OneDrive\Documenti\GitHub\neeqstock.github.io\images\cegnimusic.jpg)
 
 
-<img title="" src="images/cegnimusic.png" alt="Playing with some friends" width="315">
 
-I began playing the electric guitar when I was 16, and I have continued so far as self-taught. Now (age
- 29) I mostly play acoustic guitar.
+I began playing the electric guitar when I was 16, and I have continued so far as self-taught. Now (age 29) I mostly play acoustic guitar.
 
 During my life I experimented in composing music in various genres, having a preference for:
 
@@ -48,4 +47,4 @@ During my "career" as a guitarist I had some bands. I'll list them here, as a "t
 - **Lunatic Moon** *[me, Valerio Borioli, Elena Beltrami, Marco De Santis, Elisa Cacciatore, Edoardo Fava, Martina Corrada, Marcello Magnani]* - Pink Floyd tribute band. My biggest music experience, which lasted 
   for more than 4 years. I had a lot of live experience with them (I'm not
    sure about how many, but at least 20 appearances).
-- **Souls 4 Sale** *[me, Paolo Bollinella, Daniele Chiesa, Alessandro Marone, Edoardo Fava]* - Foo Fighters tribute band. A group of misfits put up to attend a live event :)
+- **Souls 4 Sale** *[me, Paolo Bollinella, Daniele Chiesa, Alessandro Marone, Edoardo Fava]* - Foo Fighters tribute band. A group of misfits put up to attend a live event.
