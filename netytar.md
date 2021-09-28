@@ -1,8 +1,8 @@
-```yaml
+---
 layout: page
 title: Netytar
 permalink: /netytar/
-```
+---
 
 # Netytar
 
