@@ -6,7 +6,7 @@ layout: home
 title: About me
 ---
 
-<img title="" src="images/Neeq.png" alt="Neeq" width="264" data-align="center">
+<img title="" src="images/Neeq.png" alt="Neeq" width="300" data-align="center">
 
 **Name:** Nicola Davanzo
 
