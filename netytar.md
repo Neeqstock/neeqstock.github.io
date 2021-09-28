@@ -29,7 +29,13 @@ Netytar's breath pressure sensor can be easily built DIY for under 30€.
 
 ## Download it and play!
 
-Netytar is FOSS (Free Open-Source Software)! Download it and try it from [Netytar's GitHub Repository](https://github.com/LIMUNIMI/Netytar).
+Netytar is FOSS (Free Open-Source Software)! Download it and try it from [Netytar's GitHub Repository](https://github.com/LIMUNIMI/Netytar). Right now, it is only compatible with Windows 10 operative system, although in the future we'd like to make portings to other systems.
+Just download the latest Release and run "Netytar.exe".
+In order to run it correctly and enjoy it fully, you may need:
+
+- Digital-7 font, which you can [download and install from Dafont](https://dl.dafont.com/dl/?f=digital_7);
+- Since Netytar is a MIDI controller, you may need a software synthesizer to reproduce sounds. You can try it using Windows pre-built MIDI synthesizer, but you can get way better sounds for free following [this guide I've prepared](https://neeqstock.github.io/VST_Guide/.
+
 
 ## Interface and virtual keyboard layout
 
