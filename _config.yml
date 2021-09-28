@@ -58,6 +58,7 @@ plugins:
 header_pages:
   - index.md
   - music.md
+  - netytar.md
 
 style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: true # false (default) or true
