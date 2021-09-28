@@ -4,9 +4,9 @@ title: Netytar
 permalink: /netytar/
 ---
 
-# Netytar
-
 ![Netytar](/images/netytar_comp.jpg){:width="300"}
+
+# Netytar
 
 Netytar is a software Accessible Digital Musical Instrument controlled by gaze pointing and breath. I developed it as part of my master thesis project in Università degli Studi di Pavia, then continued its development during my PhD at Università degli Studi di Milano.
 
