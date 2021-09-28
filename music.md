@@ -6,7 +6,7 @@ permalink: /music/
 
 # Music
 
-<img title="" src="images/cegnimusic.jpg" alt="Playing with some friends" width="300" data-align="center">
+![Playing with friends](/images/cegnimusic.jpg){:width="300"}
 
 I began playing the electric guitar when I was 16, and I have continued so far as self-taught. Now (age 29) I mostly play acoustic guitar.
 
