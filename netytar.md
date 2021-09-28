@@ -29,4 +29,8 @@ Netytar's breath pressure sensor can be easily built DIY for under 30€.
 
 ## Download it and play!
 
-Netytar is FOSS (Free Open-Source Software)! Download it and try it from 
+Netytar is FOSS (Free Open-Source Software)! Download it and try it from [Netytar's GitHub Repository](https://github.com/LIMUNIMI/Netytar).
+
+## Interface and virtual keyboard layout
+
+§ SECTION COMING SOON!
