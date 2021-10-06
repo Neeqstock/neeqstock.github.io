@@ -4,7 +4,7 @@ title: Netytar
 permalink: /netytar/
 ---
 
-![Netytar](/images/netytar_comp.jpg){:width="400"}
+![Netytar](/images/netytar_comp.jpg){:width="300"}
 
 # Netytar
 
@@ -40,7 +40,7 @@ In order to run it correctly and enjoy it fully, you may need:
 
 The keyboard layout of the instrument was created ad-hoc for gaze interaction, and is therefore different from the keyboard of any traditional musical instrument. There is a fixed geometrical rule which determines the intervals between each key.
 
-![Geometrical rule in Netytar](/images/netytar_geometrical_rule.png){:width="400"}
+![Geometrical rule in Netytar](/images/netytar_geometrical_rule.png){:width="300"}
 
 Numbers indicate the interval in semitones between a specific key and the central key. This rule is true for any key on the keyboard.
 Given this, the layout is *isomorphic*. This means that transposing a musical piece means simply repeating the same geometrical shape elsewhere.
@@ -49,7 +49,7 @@ By maintaining breath pressure and shifting the key with gaze movement you can o
 
 The following figure shows all positive musical intervals (in semitones) and their relative key positions. It may be noted that some are simpler than others to perform.
 
-![Intervals in Netytar](/images/netytar_intervals.png){:width="400"}
+![Intervals in Netytar](/images/netytar_intervals.png){:width="300"}
 
 - **Red** intervals are very easy to play;
 - **Green** intervals are more distant, but still very easy;
@@ -80,28 +80,28 @@ Let's see first all the keybindings, which are very important to know and unders
 
 Let's now see how the *Settings* interface works:
 
-![Start and Exit buttons](/images/netytar_menu_startexit.png){:width="400"}
+![Start and Exit buttons](/images/netytar_menu_startexit.png){:width="300"}
 
 Before playing and being able to interact with any element in Netytar you must before press **Start** to init the instrument. **Exit** closes the program, since there are no application window borders nor "X" button.
 
-![Scale selector and intensity indicator](/images/netytar_menu_scalebreath.png){:width="400"}
+![Scale selector and intensity indicator](/images/netytar_menu_scalebreath.png){:width="300"}
 
 The list on the left can be used to change the selected musical scale, which results in Netytar highlighting with colors a different musical scale on the virtual keyboard.
 The indicator on the left indicates dynamic intensity of the played note (e.g. breath pressure).
 
-![Dynamic control mode](/images/netytar_menu_scalebreath.png){:width="400"}
+![Dynamic control mode](/images/netytar_menu_scalebreath.png){:width="300"}
 
 These selectors change the way notes dynamics are controlled. **Keyboard** allow you to play notes using your PC keyboard (spacebar), while **Breath** allow you to use Netytar's breath sensor.
 
-![Breath sensor port selector](/images/netytar_menu_breathport.png){:width="400"}
+![Breath sensor port selector](/images/netytar_menu_breathport.png){:width="300"}
 
 This selector is used to tell your computer which USB port is the breath sensor connected to. You must do it before playing with the breath sensor. "COM" is the standard prefix for USB ports. When the breath sensor is detected in a COM port, the indicator becomes green.
 
-![MIDI port selector](/images/netytar_menu_midiport.png){:width="400"}
+![MIDI port selector](/images/netytar_menu_midiport.png){:width="300"}
 
 This is instead used to specify which MIDI port is Netytar communicating to. Netytar will output MIDI messages to that port.
 
-![Current note indicators](/images/netytar_menu_noteinfo.png){:width="400"}
+![Current note indicators](/images/netytar_menu_noteinfo.png){:width="300"}
 
 These indicators show informations on the currently note/key.
 
@@ -109,24 +109,24 @@ These indicators show informations on the currently note/key.
 - The **center** one indicates the name of the current note, followed by its octave;
 - The **right** one shows a *"B"* if the user is blowing in the breath pressure sensor (or pressing spacebar in Keyboard dynamic mode), or a *"_"* otherwise.
 
-!["Mod" and "BSwitch" switches](/images/netytar_menu_modbswitch.png){:width="400"}
+!["Mod" and "BSwitch" switches](/images/netytar_menu_modbswitch.png){:width="300"}
 
 These switches are used to control two specific performance parameters.
 
 - **Mod**, if activated, sends a modulation/vibrato control when breath pressure reaches a certain level, and grows even more while adding more pressure;
 - **BSwitch**, if activated, cuts off note dynamics management while blowing on the breath pressure. The breath sensor becomes like a switch: no intensity if you are not blowing, full intensity if you are blowing, even subtly.
 
-![Other performance switches](/images/netytar_menu_sharpblinkslide.png){:width="400"}
+![Other performance switches](/images/netytar_menu_sharpblinkslide.png){:width="300"}
 
 - **Sharp notes** controls if sharp notes (accidentals) are shown on Netytar's virtual keyboard;
 - **Blink scale**, if activated, allow you to change the highlighted scale on Netytar's virtual keyboard using eye blinks. A left eye blink will draw the major scale for the current gazed note; a right eye blink will draw the minor scale.
 - **Slide play** allows you to play a "legato" by simply gazing another key, without having to interrupt your breath flux. If disabled, you are required to stop breathing and breath again to make a new note. This could be easier and enhance precision in given musical pieces.
 
-![Keys distance slider](/images/netytar_menu_keysdistance.png){:width="400"}
+![Keys distance slider](/images/netytar_menu_keysdistance.png){:width="300"}
 
 This slider allow you to change the distance between keys on the virtual keyboard. Lower distances mean less eye movement, higher distances mean increased precision.
 
-![Neutral zone](/images/neutralzone.png){:width="400"}
+![Neutral zone](/images/neutralzone.png){:width="300"}
 
 I've included this button to click it before playing with in *Keyboard dynamics* mode (explained above). This is due to the fact that the spacebar key could otherwise activate interface elements unwantedly.
 
