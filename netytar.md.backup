@@ -1,0 +1,64 @@
+---
+layout: page
+title: Netytar
+permalink: /netytar/
+---
+
+![Netytar](/images/netytar_comp.jpg)
+
+# Netytar
+
+Netytar is a software Accessible Digital Musical Instrument controlled by gaze pointing and breath. I developed it as part of my master thesis project in Università degli Studi di Pavia, then continued its development during my PhD at Università degli Studi di Milano.
+
+It is suitable for musicians having a quadriplegic disability, since it can be played without using their hands.
+
+It's a monophonic instrument (i.e. able to play only one note at each time).
+
+## Mapping
+
+Gaze pointing controls note selection. It is detected through an eye tracker, a sensor which detects eye features through infrared cameras.
+
+Breath controls note dynamics through a low pressure sensor. Netytar can somewhat be compared to a digital flute in this sense.
+
+## Sensors
+
+Netytar is compatible with Tobii Eye Trackers such as [Tobii Eye Tracker 5](https://gaming.tobii.com/product/eye-tracker-5/) (which have a cost of around 220€) or old, out of production Tobii 4C and Tobii EyeX.
+
+Netytar's breath pressure sensor can be easily built DIY for under 30€.
+A guide to build it can be found on my website following the link: [guide to sensors building](https://neeqstock.github.io/Sensors/).
+
+## Download it and play!
+
+Netytar is FOSS (Free Open-Source Software)! Download it and try it from [Netytar's GitHub Repository](https://github.com/LIMUNIMI/Netytar). Right now, it is only compatible with Windows 10 operative system, although in the future we'd like to make portings to other systems.
+Just download the latest Release and run "Netytar.exe".
+In order to run it correctly and enjoy it fully, you may need:
+
+- Digital-7 font, which you can [download and install from Dafont](https://dl.dafont.com/dl/?f=digital_7);
+- Since Netytar is a MIDI controller, you may need a software synthesizer to reproduce sounds. You can try it using Windows pre-built MIDI synthesizer, but you can get way better sounds for free following [this guide I've prepared](https://neeqstock.github.io/VST_Guide/).
+
+## Virtual keyboard layout
+
+The keyboard layout of the instrument was created ad-hoc for gaze interaction, and is therefore different from the keyboard of any traditional musical instrument. There is a fixed geometrical rule which determines the intervals between each key.
+
+![Netytar](/images/netytar_geometrical_rule.png)
+
+Numbers indicate the interval in semitones between a specific key and the central key. This rule is true for any key on the keyboard.
+Given this, the layout is *isomorphic*. This means that transposing a musical piece means simply repeating the same geometrical shape elsewhere.
+
+By maintaining breath pressure and shifting the key with gaze movement you can obtain a _legato_ effect, i.e. an immediate note change without pauses. Netytar's layout is such that the most common musical intervals can be performed without having to cross "intermediate keys" with your gaze (which would mostly be detected by the eye tracker, even if your eyes are fast!). 
+
+The following figure shows all positive musical intervals (in semitones) and their relative key positions. It may be noted that some are simpler than others to perform.
+
+![Netytar](/images/netytar_intervals.png)
+
+- **Red** intervals are very easy to play;
+- **Green** intervals are more distant, but still very easy;
+- **Blue** intervals still do not require to cross intermediate keys, but are more difficult and require a long movement;
+- **Pink** intervals require to cross intermediate keys.
+
+We're still working to implement a way to make an octave jump (12 semitones) without having to cross intermediate keys. However, all the intervals requiring intermediate key crossing are already feasible without the "legato" functionality: the musician should just interrupt the breath flow during the transition.
+
+## Commands and functionalities
+
+
+
