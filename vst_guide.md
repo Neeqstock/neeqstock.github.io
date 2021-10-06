@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VST Guide
+title: VST_Guide
 permalink: /vst_guide/
 ---
 
