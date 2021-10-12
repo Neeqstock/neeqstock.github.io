@@ -60,7 +60,7 @@ header_pages:
   - music.md
   - netytar.md
   - vst_guide.md
-  - sensors.md
+  - sensors_guide.md
 
 style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: false # false (default) or true
